@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **DEV.**
  
- 👨‍🎓 I'm currently doing **BTech. in Computer Science and Engineering**
+ 👨‍🎓 I'm currently pursuing **BTech. in Computer Science and Engineering**
  
  🌱 I’m currently learning **React JS, React Native, Next JS**
 
