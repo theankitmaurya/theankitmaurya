@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=typescript,express,nodejs,npm,redux,vite" />
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,github,git,figma" />
     <img src="https://skillicons.dev/icons?i=tailwind,dart,kotlin,codepen,postman,replit" />
-    <img src="https://skillicons.dev/icons?i=yarn,firebase,mongodb,appwrite,windows,powershell" />
+    <img src="https://skillicons.dev/icons?i=yarn,firebase,mongodb,appwrite,vercel,windows,powershell" />
 <br/>
 <hr/>
 
