@@ -23,7 +23,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,nextjs,c" />
     <img src="https://skillicons.dev/icons?i=typescript,express,nodejs,npm,redux,vite" />
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,github,git,figma" />
     <img src="https://skillicons.dev/icons?i=tailwind,netlify,vercel,codepen,postman,replit" />
