@@ -25,9 +25,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,nextjs,c" />
     <img src="https://skillicons.dev/icons?i=typescript,express,nodejs,npm,redux,vite" />
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,github,git,figma" />
-    <img src="https://skillicons.dev/icons?i=tailwind,netlify,vercel,codepen,postman,replit" />
-    <img src="https://skillicons.dev/icons?i=yarn,firebase,mongodb,appwrite,windows,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,clion,github,git,figma" />
+    <img src="https://skillicons.dev/icons?i=tailwind,netlify,vercel,codepen,postman,replit,mongodb" />
+    <img src="https://skillicons.dev/icons?i=yarn,firebase,mongodb,appwrite,powershell,prisma,windows,linux" />
 <br/>
 <hr/>
 
