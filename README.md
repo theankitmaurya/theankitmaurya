@@ -59,4 +59,8 @@
   <a href="https://www.instagram.com/theankitmaurya_">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+
+  <a href="https://www.linkedin.com/theankitmauryaa">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </div>
