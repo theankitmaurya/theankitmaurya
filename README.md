@@ -60,7 +60,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="https://www.linkedin.com/theankitmauryaa">
+  <a href="https://www.linkedin.com/in/theankitmauryaa">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
